@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Smith's lectures are clear and concise. He makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Johnson is very knowledgeable, but sometimes the pace is a bit fast."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "The lectures are informative, but the exams are tough. Attend all classes!"
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Davis is enthusiastic and makes the subject enjoyable. Highly recommended!"
+      },
+      {
+        "professor": "Dr. William Miller",
+        "subject": "History",
+        "stars": 2,
+        "review": "The material is interesting, but Dr. Miller's lectures are a bit dry."
+      },
+      {
+        "professor": "Dr. Linda Wilson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Wilson is great at explaining difficult concepts, but there’s a lot of memorization."
+      },
+      {
+        "professor": "Dr. Robert Taylor",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "The class is challenging, but Dr. Taylor is always available to help outside of class."
+      },
+      {
+        "professor": "Dr. Karen Moore",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Moore is passionate about the subject and genuinely cares about her students."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Dr. Anderson encourages deep thinking and discussion, but his grading can be strict."
+      },
+      {
+        "professor": "Dr. Barbara Thomas",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "The lectures are engaging, and Dr. Thomas is always willing to help students succeed."
+      },
+      {
+        "professor": "Dr. Richard Jackson",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting class, but Dr. Jackson tends to go off on tangents."
+      },
+      {
+        "professor": "Dr. Patricia White",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Dr. White is an excellent professor with a deep knowledge of literature."
+      },
+      {
+        "professor": "Dr. Charles Harris",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Harris brings the art to life with his passion and storytelling."
+      },
+      {
+        "professor": "Dr. Jennifer Martin",
+        "subject": "Anthropology",
+        "stars": 2,
+        "review": "The material is dense, and Dr. Martin's lectures can be hard to follow."
+      },
+      {
+        "professor": "Dr. Daniel Thompson",
+        "subject": "Geography",
+        "stars": 4,
+        "review": "Dr. Thompson's classes are well-organized and informative."
+      },
+      {
+        "professor": "Dr. Susan Garcia",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Garcia is passionate about the environment and inspires her students."
+      },
+      {
+        "professor": "Dr. Mark Martinez",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Dr. Martinez is knowledgeable, but the workload is very heavy."
+      },
+      {
+        "professor": "Dr. Mary Robinson",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Dr. Robinson's classes are practical and relevant to real-world business."
+      },
+      {
+        "professor": "Dr. Steven Clark",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Dr. Clark's passion for music is contagious. A fantastic professor!"
+      },
+      {
+        "professor": "Dr. Elizabeth Rodriguez",
+        "subject": "Law",
+        "stars": 3,
+        "review": "The material is challenging, and Dr. Rodriguez's grading is tough, but fair."
+      }
+    ]
+  }
+  
