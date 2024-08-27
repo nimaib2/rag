@@ -39,6 +39,8 @@ export default function Home() {
         const processText = async ({ done, value }) => {
           if (done) {
             // Update the last message with the full response text
+            const text = decoder.decode(value || new Uint8Array(), { stream: true });
+            fullMessage += text;  // Accumulate the text
             setMessages((prevMessages) => {
               const updatedMessages = [...prevMessages];
               updatedMessages[updatedMessages.length - 1].content = fullMessage;
@@ -47,8 +49,7 @@ export default function Home() {
             return;
           }
   
-          const text = decoder.decode(value || new Uint8Array(), { stream: true });
-          fullMessage += text;  // Accumulate the text
+          
   
           // Continue reading the next chunk
           reader.read().then(processText);
